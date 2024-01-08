@@ -1,0 +1,10 @@
+[31mERROR[39m: GET /api/orders/all - 15:38:54
+[31mERROR[39m: GET /api/orders/all - 15:39:09
+ERROR: GET /api/orders/fake - 16:21:27 - not found path
+ERROR: POST /api/fake - 08:04:11 - orders validation failed: type: `mozzarella` is not a valid enum value for path `type`.
+ERROR: POST /api/fake - 08:04:11 - orders validation failed: type: `mozzarella` is not a valid enum value for path `type`.
+
+[31mFATAL[39m: POST /api/auth/signout - 16:09:01
+ERROR: POST /api/auth/logout - 17:45:15 - not found path
+ERROR: GET /api/simple - 23:22:42 - not found path
+ERROR: GET /api/simple - 23:23:11 - not found path
